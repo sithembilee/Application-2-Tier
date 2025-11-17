@@ -1,14 +1,14 @@
-## Table of Contents
-- #project-overview
-- #architecture-diagram
-- #step-1-aws-ec2-instance-preparation
-- #step-2-install-dependencies-on-ec2
-- #step-3-jenkins-installation-and-setup
-- #step-4-github-repository-configuration
-- #dockerfile
-- #docker-composeyml
-- #jenkinsfile
-- [Step 5-jenkins-pipeline-creation-and-execution
-- #conclusion
-- #infrastructure-diagram
-- #work-flow-diagram
+Table of Contents
+	1. Project Overview
+	2. Architecture Diagram
+	3. Step 1: AWS EC2 Instance Preparation
+	4. Step 2: Install Dependencies on EC2
+	5. Step 3: Jenkins Installation and Setup
+	6. Step 4: GitHub Repository Configuration
+		○ Dockerfile
+		○ docker-compose.yml
+		○ Jenkinsfile
+	7. Step 5: Jenkins Pipeline Creation and Execution
+	8. Conclusion
+	9. Infrastructure Diagram
+Work flow Diagram
