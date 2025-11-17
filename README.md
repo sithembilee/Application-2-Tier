@@ -31,4 +31,4 @@ To streamline deployments, we set up a CI/CD pipeline with Jenkins, so every tim
 
 3. Steps
 - Launce EC2 Instance:
-- 
+- TBC
